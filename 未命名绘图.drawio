@@ -177,7 +177,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0KxBuQx5Ap2FV55bGDWW" name="第 3 页">
-    <mxGraphModel dx="869" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="505" dy="209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -408,11 +408,23 @@
         <mxCell id="t1lhBir1fyC4FInqMhVh-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t1lhBir1fyC4FInqMhVh-37" target="t1lhBir1fyC4FInqMhVh-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_t-94UeBCaKDgRO4-x_V-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t1lhBir1fyC4FInqMhVh-37" target="_t-94UeBCaKDgRO4-x_V-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t1lhBir1fyC4FInqMhVh-37" value="设置对象头" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t1lhBir1fyC4FInqMhVh-39" value="执行构造方法" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_t-94UeBCaKDgRO4-x_V-1" value="mark word" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_t-94UeBCaKDgRO4-x_V-3" value="klass pointer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BrUljR-z8-gcqMVwfVm9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t1lhBir1fyC4FInqMhVh-37" target="_t-94UeBCaKDgRO4-x_V-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
